@@ -1,0 +1,10 @@
+(use 'training-day)
+(square 7)
+(+ 3 4 5 6)
+(* 3 5)
+(/ 10 2)
+(get "abrakadabra" 0)
+(get "abrakadabra" 2)
+(fn [who] (str "Hello, " who "!"))
+((fn [who] (str "Hello, " who "!")) "Lauri")
+hai
